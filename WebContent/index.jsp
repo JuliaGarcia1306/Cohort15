@@ -10,7 +10,7 @@
 	<h2>Bienvenido al mundo git</h2>
 	
 	<p>
-	Práctica de git :D 
+	Práctica de git :D  hola Julie!!
 	</p>
 	
 	<script src="script/script.js"></script>
