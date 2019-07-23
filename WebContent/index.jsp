@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h2>Bienvenido al mundo git</h2>
+	
+	<script src="script/script.js"></script>
 </body>
 </html>
