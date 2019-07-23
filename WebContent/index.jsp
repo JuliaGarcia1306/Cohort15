@@ -9,6 +9,10 @@
 <body>
 	<h2>Bienvenido al mundo git</h2>
 	
+	<p>
+	Práctica de git :D 
+	</p>
+	
 	<script src="script/script.js"></script>
 </body>
 </html>
