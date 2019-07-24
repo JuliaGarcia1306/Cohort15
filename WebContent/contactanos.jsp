@@ -9,7 +9,8 @@
 <body>
 	<h2>Esta es la página de contacto</h2>
 	<p>
-		Esta es una prueba
+		Esta es una prueba.
+		Otra modificación
 	</p>
 </body>
 </html>
